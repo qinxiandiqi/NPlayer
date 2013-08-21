@@ -1,4 +1,4 @@
 NPlayer
 =========
 
-A android music and movic player.
+A android music and movie player.
